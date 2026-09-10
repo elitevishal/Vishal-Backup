@@ -1,5 +1,5 @@
 {
-  "id_mapping_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8/id_name_mapping_V8.json",
+  "id_mapping_url": "https://raw.githubusercontent.com/elitevishal/Vishal-Backup/refs/heads/main/id_name_mapping_V8.json",
   "backups": [
     {
       "name": "Vishal Backup (Owner)",
@@ -7,18 +7,18 @@
       "mc_url": "https://raw.githubusercontent.com/SpoilerTech/InstaZen-Backup-Files/refs/heads/main/Affan%20Backup.json"
     },
     {
-      "name": "mahendera Backup (Admin)",
-      "description": "Mahendra official Admin Backup",
+      "name": "Mahendra Backup (Admin)",
+      "description": "Mahendra's official Admin Backup",
       "mc_url": "https://raw.githubusercontent.com/SpoilerTech/InstaZen-Backup-Files/refs/heads/main/Affan%20Backup.json"
     },
     {
       "name": "Master Bits (Admin)",
-      "description": "master bits  official Backup",
+      "description": "Master Bits official Backup",
       "mc_url": "https://raw.githubusercontent.com/SpoilerTech/InstaZen-Backup-Files/refs/heads/main/Aman%20Singh.json"
     },
     {
-      "name": "lucky Tech (YouTuber)",
-      "description": "lucky Tech's official Backup",
+      "name": "Lucky Tech (YouTuber)",
+      "description": "Lucky Tech's official Backup",
       "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/raw/main/Coolest%20Tech.json"
     }
   ]
