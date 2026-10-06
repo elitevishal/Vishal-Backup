@@ -2,9 +2,9 @@
   "id_mapping_url": "https://github.com/elitevishal/EliteApp-Backup-Files/blob/main/id_name_mapping_V8.json",
   "backups": [
     {
-      "name": "Vishal Backup (Owner)",
-      "description": "Vishal's official Backup all chat aback-up",
-      "mc_url": "https://github.com/elitevishal/EliteApp-Backup-Files/blob/main/proper.json"
+      "name": "Vishal Backup (Owner) old chat recover",
+      "description": "Vishal's official Backup",
+      "mc_url": "https://github.com/elitevishal/EliteApp-Backup-Files/raw/main/proper.json"
     },
     {
       "name": "Mahendra Backup (Admin)",
